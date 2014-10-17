@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wij:home|Door43 (wij)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wij|d43-wij repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wij/archive/master.zip|d43-wij.zip]]
+
+**Recent Changes**
+{{changes>ns = wij}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wij|Ethnologue data]]
+
